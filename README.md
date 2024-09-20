@@ -5,7 +5,7 @@
 ![PyQt](https://img.shields.io/badge/PyQt6-green)
 ![License](https://img.shields.io/badge/License-MIT-yellowgreen)
 
-Sistema bancário desenvolvido em Python utilizando PyQt5 para a interface gráfica e SQLite como banco de dados para armazenamento de contas, transações e saldos.
+Sistema bancário desenvolvido em Python utilizando PyQt6 para a interface gráfica e SQLite como banco de dados para armazenamento de contas, transações e saldos.
 
 ## 🚀 Funcionalidades
 
